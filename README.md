@@ -2,6 +2,7 @@
 Developed an HR analytics dashboard to analyze employee data, track key HR metrics, and provide insights for improving workforce management and organizational efficiency.
 ## Tools Used:
 Power BI,Excel
+![HR Analytics Dashboard](https://github.com/VihoshiniSaravanan/HR_-Analytics_dashboard/assets/173756615/44965b70-95a5-4318-bd2f-6992b22f98af)
 
 #### Actions Taken:
 
